@@ -1,7 +1,17 @@
 .hero-image{
     background-image: url("./pics/burn.png") ;
-    height: 300px;
+    height: 500px;
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+body{
+    background-color: darkgreen;
+    border-color: chartreuse;
+    border-style: ridge;
+    border-width: 20px;
+}
+
+h1{
+    
 }
